@@ -1,0 +1,9 @@
+body { background-color: black;}
+h3 {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: white;}
+.bw {background-color: black; font-size: large; color: white; font-style: italic;}
+.end {font-weight: bolder; color: white;}
+.menu :hover{font-weight: bolder; font-size: larger; color: white;}
+a {color: white; text-decoration: underline;}
+.image1 {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbd2Wr_TprUH3bji__OqF7phfuM35AbuVmKwpnJ2Qoeh2HSKgBApD5wGzgcGlj5ekJIc&usqp=CAU);}
+.image2 {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZcGiObUoi1MfyTI6Yd2tJZ6jgPDk-u1ZHA&usqp=CAU);}
+.bold {font-weight: bolder;}
